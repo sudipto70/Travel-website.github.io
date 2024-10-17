@@ -1,0 +1,1642 @@
+
+.bar{
+
+    margin-left: 162px;
+    word-spacing: 20px;
+    color: white;
+    font-family: 'Italianno', cursive;
+    
+    }
+    
+    
+    .bar1{
+    
+    margin-right: 162px!important;
+    word-spacing: 20px;
+    color: white;
+    font-family: 'Italianno', cursive;
+    
+    }
+    
+    .navbar{
+    
+    background-color: black!important;
+    
+    
+    }
+    
+    
+    @media (min-width: 0px) and (max-width: 600px) {
+    
+    
+        .bar{
+    
+            margin-left: 1px;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            
+            }
+            
+            
+            .bar1{
+            
+            margin-left: 289px!important;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            margin-top: -43px;
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+     }
+    
+    
+    
+     
+    @media (min-width: 601px) and (max-width: 826px) {
+    
+    
+        .bar{
+    
+            margin-left: 1px;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            
+            }
+            
+            
+            .bar1{
+            
+            margin-left: 378px!important;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            margin-top: -43px;
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+     }
+    
+    
+     .navbar{
+    
+    background-color: #100238!important;
+    
+    
+    
+     }
+    
+    
+    
+    .vice{
+    
+    
+    height: 87px!important;
+    width: 87px!important;
+    margin-left: 187px;
+    
+    }
+    
+    
+    
+    
+    .vice1{
+    
+    
+        height: 40px!important;
+        width: 187px!important;
+        margin-top: 29px;
+        
+        
+        }
+    
+        .vice2{
+    
+    color: white!important;
+    margin-left: 23px;
+    
+    
+        }
+    
+        .navbar-toggler{
+    
+    border-color: white!important;
+    
+    
+        }
+    
+        .vice3{
+    
+    
+    border-color: #0E7D95!important;
+    background-color:  #0E7D95!important;
+    color: blue!important;
+    margin-left: 109px;
+    
+    
+    
+        }
+
+
+        .vice5{
+
+            margin-left: 22px;
+            
+            
+            
+            }
+     
+    
+    
+        @media (min-width: 0px) and (max-width: 904px) {
+    
+    
+    .vice{
+    
+    margin-left: 14px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    .vice3{
+    
+    margin-left: 23px!important;
+    
+    
+    }
+    
+    
+    
+    
+        }
+    
+    
+    
+    
+        @media (min-width: 905px) and (max-width: 1100px) {
+    
+    
+    
+    
+            .vice{
+    
+                margin-left: 14px;
+                
+                
+                }
+                
+    
+    
+    
+    .vice2{
+    
+    margin-left: 8px!important;
+    
+    }
+        
+       
+    
+    .vice3{
+    
+        margin-left: 5px!important;
+        
+        } 
+        
+        
+        
+        }
+    
+    
+        @media (min-width: 1101px) and (max-width: 1200px) {
+    
+    
+    
+    .vice{
+    
+    margin-left: 10px;
+    
+    
+    }
+    
+    .vice3{
+    
+    margin-left: 39px;
+    
+    
+    }
+    
+    
+    
+    
+        }
+    
+    
+    
+        @media (min-width: 1201px) and (max-width: 1400px) {
+    
+    
+    
+    .vice{
+    
+    margin-left: 61px;
+    
+    
+    }
+    
+    
+    
+        }
+    
+    
+    
+        .page1{
+    
+    height: 589px!important;
+    width: 100%!important;
+    
+    
+    
+        }
+    
+    
+    
+    
+    
+        .page2{
+    
+    
+    margin-top: -427px;
+    margin-left: 76px;
+    color: white;
+    font-family: 'Salsa', cursive;
+    font-size: 95px;
+    text-align: left;
+
+
+    
+        }
+    
+        
+        
+        @media (min-width: 0px) and (max-width: 576px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 45px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+          
+        @media (min-width: 577px) and (max-width: 786px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 45px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+        
+          
+        @media (min-width: 787px) and (max-width: 992px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 65px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+
+        
+        @media (min-width: 993px) and (max-width: 1100px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 65px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+
+
+
+        .keep{
+
+
+height: 165px;
+width: 395px;
+border-style: none!important;
+
+
+        }
+
+
+        .keep1{
+
+font-size: 29px;
+color: #020838;
+
+
+
+
+
+        }
+
+
+        .keep2{
+
+
+            font-family: 'Poppins', sans-serif;
+
+
+        }
+
+        .keep6{
+
+height: 12px;
+width: 13px;
+
+
+        }
+
+
+        .keep3{
+
+
+            height: 295px!important;
+            width: 395px;
+background-color: #818BDFFC!important;
+
+        }
+
+
+
+.keep4{
+
+color: white;
+font-size: 26px;
+
+
+
+}
+
+
+.keep5{
+
+color: white;
+font-size: 19px;
+font-family: 'Salsa', cursive;
+margin-left: 19px;
+
+}
+
+
+
+
+        .keep9{
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+
+        }
+
+        .keep10{
+
+margin-left: 38%;
+
+
+        }
+
+
+
+        .keep11{
+
+            color: white;
+            font-size: 26px;
+            
+            
+            
+            }
+
+            .keep12{
+
+                
+                font-size: 19px;
+                font-family: 'Salsa', cursive;
+                margin-left: 9px;
+            }
+
+
+        .keep14{
+
+height: 58px;
+width: 165px;
+background-color: #0166FE;
+color: white;
+border-radius: 16px;
+margin-left: 105px;
+margin-top: 15px;
+
+
+
+        }
+
+
+        .stay{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 68px;
+
+
+        }
+
+
+
+        @media (min-width: 0px) and (max-width: 576px) {
+
+
+
+            .stay{
+
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                margin-top: 265px;
+                align-items: center;
+                
+                        }
+
+
+
+
+
+
+        }
+
+
+
+        @media (min-width: 577px) and (max-width: 786px) {
+
+
+
+            .stay{
+
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                margin-top: 300px;
+                align-items: center;
+                
+                        }
+
+
+
+
+
+
+        }
+
+
+        @media (min-width: 787px) and (max-width: 1100px) {
+
+
+
+            .stay{
+
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                margin-top: 200px;
+                align-items: center;
+                
+                        }
+
+
+
+
+
+
+        }
+
+
+
+        @media (min-width: 1100px) and (max-width:1500px) {
+   
+
+            .stay{
+
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly;
+                margin-top: 68px;
+                
+                
+                        }
+        
+        
+        
+        
+        }
+
+
+
+
+
+        .unit1{
+
+            margin-left: 34px;
+            
+            
+            }
+            
+            
+            
+            .unit6{
+            
+            text-align: center;
+            font-family: 'Salsa', cursive;
+            font-size: 32px;
+            
+            
+            }
+            
+            
+            
+            .unit7{
+            
+            text-align: center;
+            
+            
+            }
+            
+            
+            
+            
+            
+            
+                .unit9{
+            
+            height: 39px;
+            width: 98px;
+            background-color: blue;
+            color: white;
+            border-radius: 36px;
+            margin-left: 59px;
+            
+            
+                }
+            
+              .unit8{
+            
+            float: left!important;
+            margin-top: 9px;
+            color: blue;
+            
+              } 
+            
+            
+              .unit10{
+            
+                width: 88%;
+            margin-left: 17px;
+            margin-top: 12px;
+            
+              }
+            
+              .unit11{
+            
+            margin-top: 32px;
+            height: 28px;
+            width: 31px;
+            position: absolute;
+            margin-left: 225px;
+            
+            
+              }
+
+
+              .unitx{
+
+margin-top: 313px;
+
+
+              }
+
+
+.unity{
+
+text-align: center;
+font-size: 44px;
+margin-top: -214px;
+position: absolute;
+margin-left: 36%;
+color: #020838;
+
+}
+
+            
+            
+              .unit{
+            
+            
+            display: flex!important;
+            flex-direction: row;
+            justify-content: space-evenly;
+            height: 696px;
+            width: 100%;
+            
+            
+            
+              }
+            
+              .unit12{
+            
+            height: 506px!important;
+            
+            
+              }
+            
+              @media (min-width: 0px) and (max-width: 576px) {
+            
+            
+            
+            
+                .unit{
+            
+            
+                    display: flex!important;
+                    flex-direction: column!important;
+                    align-items: center;
+                    height: 1900px;
+                    
+                    
+                      }
+            
+            
+            .unit12{
+            
+            margin-top: 45px;
+            
+            
+            }
+            
+            
+            .unity{
+
+margin-left: 56px;
+
+            }
+            
+            
+            
+              }
+            
+            
+            
+            
+              @media (min-width: 577px) and (max-width: 786px) {
+            
+            
+            
+            
+                .unit{
+            
+            
+                    display: flex!important;
+                    flex-direction: column!important;
+                    align-items: center;
+                    height: 1900px;
+                    
+                    
+                      }
+            
+            
+            .unit12{
+            
+            margin-top: 45px;
+            
+            
+            }
+            
+            
+            .unity{
+
+                margin-left: 142px;
+
+            }
+            
+            
+            
+              }
+            
+            
+            
+            
+              @media (min-width: 787px) and (max-width: 992px) {
+            
+            
+            
+            
+                .unit{
+            
+            
+                    display: flex!important;
+                    flex-direction: column!important;
+                    align-items: center;
+                    height: 1900px;
+                    
+                    
+                      }
+            
+            
+            .unit12{
+            
+            margin-top: 45px;
+            
+            
+            }
+            
+            
+            .unity{
+
+                margin-left: 263px;
+
+            }
+            
+            
+            
+              }
+    
+
+
+.sea{
+
+height: 55px!important;
+width: 65px;
+background-color: #020838!important;
+color: white!important;
+
+
+
+
+}
+
+
+.sea1{
+
+    text-align: center;
+margin-top: 5%;
+font-size: 32px;
+
+
+
+}
+
+
+
+
+              
+    
+.cent{
+
+
+    font-size: 36px;
+    margin-left: 30px;
+    margin-top: 145px;
+    
+    
+    
+    }
+    
+    
+    .cent2{
+    
+    background-color: #0208380F;
+    height: 1330px;
+    width: 100%;
+    margin-top: -255px;
+    
+    }
+    
+    
+    
+    
+                  .dell{
+    
+    
+    width: 600px!important;
+    margin-left: 25%;
+    margin-top: 100px;
+    
+                  }
+    
+    
+                  .dell1{
+    
+    height: 86%!important;
+                    margin-top: 17px!important;
+                    margin-left: 8px;
+
+width: 159px;
+
+                    
+                                  }
+    
+    
+       .dell2{
+    
+        font-family: 'Salsa', cursive;
+    font-size: 32px;
+    
+       }     
+       
+       .dell3{
+    
+    color: #DE10BD!important;
+    
+    
+       }
+                    
+    
+    
+    
+    
+       @media (min-width: 0px) and (max-width: 576px) {
+    
+    .dell{
+    
+    width: 386px!important;
+    margin-left: 96px;
+    
+    
+    }
+    
+    
+    .cent2{
+    
+    height: 1700px;
+    
+    
+    
+    }
+    
+    
+       }
+    
+    
+       
+    
+       @media (min-width: 577px) and (max-width: 786px) {
+    
+        .dell{
+        
+        width: 386px!important;
+        margin-left: 96px;
+        
+        
+        }
+        
+        
+        .cent2{
+        
+        height: 1700px;
+        
+        
+        
+        }
+    }
+
+
+
+
+
+    .axel1{
+
+        height: 383px!important;
+        width:  289px!important;
+        margin-top: 45px;
+        
+        
+        }
+        
+        
+        .axel2{
+        
+            height: 383px!important;
+            width: 298px!important;
+            
+            
+            
+            
+            }
+        
+        
+            .bi-instagram{
+        
+        height: 49px;
+        width: 48px;
+        float: left;
+        color: white;
+        margin-top: 303px;
+        
+        
+            }
+        
+            .axel4{
+        
+        margin-top: 302px;
+        text-align: right;
+        font-size: 26px;
+        color: white;
+        font-family: 'Salsa', cursive;
+        
+        
+        
+            }
+        
+            .axel{
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        background-image: url("file:///C:/Users/Sudipto/Desktop/Web%20Architect/Project%20Designer/Travelling%20website/image/Mountain-Sketch-21%202.png");
+        height: 500px;
+        width: 96%;
+        opacity: 32.5%;
+        margin-left: 28px;
+        
+          
+        }
+        
+        .axel5{
+        
+            background: #100238;
+            z-index: -1;
+            width: 92%;
+            margin-left: 55px;
+        
+        }
+        
+        .axel6{
+        
+        text-align: center;
+        font-size: 30px;
+        color: white;
+        
+        
+        
+        }
+        
+        
+        @media (min-width: 0px) and (max-width: 1120px) {
+        
+        
+           
+        
+        .axel{
+        
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            background-image: url("file:///C:/Users/Sudipto/Desktop/Web%20Architect/Project%20Designer/Travelling%20website/image/Mountain-Sketch-21%202.png");
+            height: 1500px;
+            width: 96%;
+            opacity: 32.5%;
+            margin-left: 28px;
+            align-items: center;
+            
+              
+            }
+            
+            .axel5{
+            
+                background: #100238;
+                z-index: -1;
+                width: 92%;
+                margin-left: 55px;
+            
+            }
+        
+        
+        
+        
+        }
+        
+        
+        
+
+    
+        .snap1{
+    
+            margin-top: 60px;
+            
+            
+            
+                }
+            
+              
+            
+            
+                .snap7{
+            
+                    margin-top: 60px;
+                    
+                    
+                    
+                        }
+                    
+                      
+            
+            
+                
+            
+                .snap3{
+            
+            width: 96px!important;
+            height: 33px!important;
+            
+            
+            
+                }
+            
+            
+            
+            .snap4{
+            
+            color: white;
+            
+            
+            
+            }
+            
+            
+            
+            
+            
+            
+                .snap{
+            
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            background-color: #020838;
+            height: 376px;
+            width: 100%;
+            margin-top: 65px;
+            
+            
+            
+                }
+            
+            
+                .snap5{
+            
+            color: white;
+            
+            
+                }
+            
+            
+                
+                .snap6{
+            
+                    color: white;
+                    
+                    
+                        }
+            
+            
+                        
+                        @media (min-width: 0px) and (max-width: 530px) {
+            
+            
+            .snap7{
+            
+            margin-left: 12px;
+            
+            
+                 
+            }
+            
+            
+            
+            
+                        }
+            
+            
+            
+                        .true2{
+            
+            height: 84px;
+            width: 198px;
+            
+            
+                        }
+            
+            
+                       
+            .true{
+            
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            background-color: #020838;
+            height: 255px;
+            width: 100%;
+            
+            
+            
+            }
+            
+            .true1{
+            
+            margin-top: 12px;
+            
+            
+            }
+            
+            
+            @media (min-width: 0px) and (max-width: 576px) {
+            
+            
+                    
+                .true{
+            
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    background-color: #020838;
+                    height: 255px;
+                    width: 100%;
+            
+                    
+                    
+                    
+                    }
+            
+                    .true2{
+            
+                        height: 64px;
+                        width: 98px;
+                        
+                        
+                                    }
+                        
+                        
+                  
+                   
+            
+            }
+            
+            
+            
+            @media (min-width: 577px) and (max-width: 786px) {
+            
+            
+                    
+                .true{
+            
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    background-color: #020838;
+                    height: 255px;
+                    width: 100%;
+            
+                    
+                    
+                    
+                    }
+            
+                    .true2{
+            
+                        height: 64px;
+                        width: 98px;
+                        
+                        
+                                    }
+                        
+                        
+                  
+                   
+            
+            }
+                    
+             
+            
+            
+            
+            .min{
+            
+            height: 225px;
+            width: 100%;
+            background-color: #020838;
+            
+            
+            }
+            
+            .min1{
+            
+                color: white;
+            text-align: center;
+            font-family: 'Salsa', cursive;
+            font-size: 40px;
+            
+            }
+            
+            
+            .min2{
+            
+            margin-left: 35%;
+            height: 56px;
+            width: 436px;
+            border-radius: 8px;
+            
+            
+            
+            }
+            
+            
+            
+            
+            .min3{
+            
+            background-color: #0E7D95;
+            color: white;
+            height: 56px;
+            width: 141px;
+            position: absolute;
+            border-radius: 8px;
+            
+            }
+            
+            
+            
+            
+            
+            @media (min-width: 787px) and (max-width: 992px) {
+            
+            
+            
+                .min2{
+            
+                    margin-left: 35%;
+                    height: 56px;
+                    width: 436px;
+                    border-radius: 8px;
+                    margin-left: 113px;
+                    
+                    
+                    }
+                    
+                    
+                    
+                    
+                    .min3{
+                    
+                    background-color: #0E7D95;
+                    color: white;
+                    height: 56px;
+                    width: 141px;
+                    position: absolute;
+                    border-radius: 8px;
+                    
+                    }
+            
+            
+            
+            
+            
+            
+            
+            
+            }
+            
+            
+            
+            @media (min-width: 576px) and (max-width: 786px) {
+            
+            
+            
+            
+            .min1{
+            
+            margin-left: -147px;
+            
+            
+            }
+            
+            
+            
+                .min2{
+            
+                    margin-left: 35%;
+                    height: 56px;
+                    width: 368px;
+                    border-radius: 8px;
+                    margin-left: 28px;
+                    
+                    
+                    }
+                    
+                    
+                    
+                    
+                    .min3{
+                    
+                    background-color: #0E7D95;
+                    color: white;
+                    height: 56px;
+                    width: 141px;
+                    position: absolute;
+                    border-radius: 8px;
+                    
+                    }
+            
+            
+            
+            
+            
+            
+            
+            
+            }
+            
+            
+            
+            @media (min-width: 0px) and (max-width: 575px) {
+            
+            
+            
+            
+                .min1{
+                
+                margin-left: -147px;
+                
+                
+                }
+                
+                
+                
+                    .min2{
+                
+                        margin-left: 35%;
+                        height: 56px;
+                        width: 299px;
+                        border-radius: 8px;
+                        margin-left: 28px;
+                        
+                        
+                        }
+                        
+                        
+                        
+                        
+                        .min3{
+                        
+                        background-color: #0E7D95;
+                        color: white;
+                        height: 56px;
+                        width: 141px;
+                        position: absolute;
+                        border-radius: 8px;
+                        
+                        }
+                
+                
+                
+                
+                
+                
+                
+                
+                }
+            
+            
+            .sec{
+            
+            height: 120px;
+            width: 100%;
+            background-color: #020838;
+            
+            
+            
+            }
+            
+            
+            
+            
+                .sec1{
+            
+            width: 80%;
+            height: 1px;
+            background-color: aqua;
+            margin-top: -12px;
+            margin-left: 10%;
+            
+            
+                }
+            
+                .sec3{
+            
+            height: 23px;
+            width: 56px;
+            
+            
+                }
+            
+                
+                .sec2{
+            
+                    height: 33px;
+                    width: 76px;
+                    margin-left: 89%;
+                    margin-top: -27px;
+                    position: absolute;
+                    
+                    
+                        }
+            
+            
+            
+                        @media (min-width: 0px) and (max-width: 575px) {
+            
+                            .sec2{
+            
+                                height: 33px;
+                                width: 76px;
+                                margin-left: 80%;
+                                margin-top: -27px;
+                                position: absolute;
+                                
+                                
+                                    }
+                           
+                        
+                        
+                        
+                        }
+            
+            
+            
+                        
+            
+                        @media (min-width: 576px) and (max-width: 786px) {
+            
+                            .sec2{
+            
+                                height: 33px;
+                                width: 76px;
+                                margin-left: 84%;
+                                margin-top: -27px;
+                                position: absolute;
+                                
+                                
+                                    }
+                           
+                        
+                        
+                        
+                        }
+            
+            
+                        
+                        @media (min-width: 787px) and (max-width: 992px) {
+            
+                            .sec2{
+            
+                                height: 33px;
+                                width: 76px;
+                                margin-left: 87%;
+                                margin-top: -27px;
+                                position: absolute;
+                                
+                                
+                                    }
+                           
+                        
+                        
+                        
+                        }
+            
+            
+                        .hr{
+            
+            height: 75px;
+            width: 100%;
+            background-color: black;
+            
+            
+                        }
+            
+                        .hr1{
+            
+            
+            margin-left: 46%;
+            color: white;
+            font-size: 29px;
+            margin-top: 17px;
+            position: absolute;
+            
+                        }
+        
+        
+            

@@ -1,0 +1,1485 @@
+
+.bar{
+
+    margin-left: 162px;
+    word-spacing: 20px;
+    color: white;
+    font-family: 'Italianno', cursive;
+    
+    }
+    
+    
+    .bar1{
+    
+    margin-right: 162px!important;
+    word-spacing: 20px;
+    color: white;
+    font-family: 'Italianno', cursive;
+    
+    }
+    
+    .navbar{
+    
+    background-color: black!important;
+    
+    
+    }
+    
+    
+    @media (min-width: 0px) and (max-width: 600px) {
+    
+    
+        .bar{
+    
+            margin-left: 1px;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            
+            }
+            
+            
+            .bar1{
+            
+            margin-left: 289px!important;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            margin-top: -43px;
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+     }
+    
+    
+    
+     
+    @media (min-width: 601px) and (max-width: 826px) {
+    
+    
+        .bar{
+    
+            margin-left: 1px;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            
+            }
+            
+            
+            .bar1{
+            
+            margin-left: 378px!important;
+            word-spacing: 20px;
+            color: white;
+            font-family: 'Italianno', cursive;
+            margin-top: -43px;
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+     }
+    
+    
+     .navbar{
+    
+    background-color: #100238!important;
+    
+    
+    
+     }
+    
+    
+    
+    .vice{
+    
+    
+    height: 87px!important;
+    width: 87px!important;
+    margin-left: 187px;
+    
+    }
+    
+    
+    
+    
+    .vice1{
+    
+    
+        height: 40px!important;
+        width: 187px!important;
+        margin-top: 29px;
+        
+        
+        }
+    
+        .vice2{
+    
+    color: white!important;
+    margin-left: 23px;
+    
+    
+        }
+    
+        .navbar-toggler{
+    
+    border-color: white!important;
+    
+    
+        }
+    
+        .vice3{
+    
+    
+    border-color: #0E7D95!important;
+    background-color:  #0E7D95!important;
+    color: blue!important;
+    margin-left: 109px;
+    
+    
+    
+        }
+
+
+        
+.vice5{
+
+    margin-left: 22px;
+    
+    
+    
+    }
+      
+    
+    
+        @media (min-width: 0px) and (max-width: 904px) {
+    
+    
+    .vice{
+    
+    margin-left: 14px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    .vice3{
+    
+    margin-left: 23px!important;
+    
+    
+    }
+    
+    
+    
+    
+        }
+    
+    
+    
+    
+        @media (min-width: 905px) and (max-width: 1100px) {
+    
+    
+    
+    
+            .vice{
+    
+                margin-left: 14px;
+                
+                
+                }
+                
+    
+    
+    
+    .vice2{
+    
+    margin-left: 8px!important;
+    
+    }
+        
+       
+    
+    .vice3{
+    
+        margin-left: 5px!important;
+        
+        } 
+        
+        
+        
+        }
+    
+    
+        @media (min-width: 1101px) and (max-width: 1200px) {
+    
+    
+    
+    .vice{
+    
+    margin-left: 10px;
+    
+    
+    }
+    
+    .vice3{
+    
+    margin-left: 39px;
+    
+    
+    }
+    
+    
+    
+    
+        }
+    
+    
+    
+        @media (min-width: 1201px) and (max-width: 1400px) {
+    
+    
+    
+    .vice{
+    
+    margin-left: 61px;
+    
+    
+    }
+    
+    
+    
+        }
+    
+    
+    
+        .page1{
+    
+    height: 589px!important;
+    width: 100%!important;
+    
+    
+    
+        }
+    
+    
+    
+    
+    
+        .page2{
+    
+    
+    margin-top: -427px;
+    margin-left: 76px;
+    color: white;
+    font-family: 'Salsa', cursive;
+    font-size: 95px;
+    text-align: center;
+
+
+    
+        }
+    
+        
+        
+        @media (min-width: 0px) and (max-width: 576px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 45px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+          
+        @media (min-width: 577px) and (max-width: 786px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 45px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+        
+          
+        @media (min-width: 787px) and (max-width: 992px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 65px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+
+        
+        @media (min-width: 993px) and (max-width: 1100px) {
+
+
+
+
+            .page2{
+    
+    
+                margin-top: -427px;
+                margin-left: 76px;
+                color: white;
+                font-family: 'Salsa', cursive;
+                font-size: 65px;
+                text-align: center;
+            
+            
+                
+                    }
+
+
+
+
+
+
+
+        }
+
+    
+.page4{
+
+
+width: 203px!important;
+height: 123px!important;
+border-style: none;
+border-radius: 50px!important;
+
+
+
+}
+
+ 
+.page5{
+
+
+    width: 203px!important;
+    height: 123px!important;
+    
+    
+    
+    }
+
+    .card-title{
+
+text-align: center;
+margin-top: 22px;
+
+
+
+    }
+
+    .page3{
+
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+font-family: 'Salsa', cursive;
+
+
+
+    }
+
+
+
+    @media (min-width: 0px) and (max-width: 686px) {
+
+
+
+        .page3{
+
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            font-family: 'Salsa', cursive;
+            align-items: center;
+            
+            
+                }
+
+                .page4{
+
+margin-top: 45px;
+
+
+                }
+
+
+
+.page1{
+
+
+height: 900px!important;
+
+
+}
+
+
+.page2{
+
+
+    margin-top: -770px;
+    
+    
+    }
+
+
+
+
+    
+
+
+
+    }
+
+
+
+
+
+
+
+    .react{
+
+margin-top: 223px;
+text-align: center;
+font-size: 56px;
+color: #020838;
+
+    }
+
+
+
+    .will1{
+
+height: 399px!important;
+width: 225px!important;
+background-color: #100238!important;
+
+
+
+    }
+
+    .will7{
+
+height: 36px!important;
+width: 143px;
+background-color: aqua!important;
+border-bottom-right-radius: 60px!important;
+padding-left: 12px;
+
+    }
+
+
+
+    .will8{
+
+height: 75px!important;
+width: 23px;
+
+
+
+
+    }
+
+
+    .will3{
+
+color: #DE10BD!important;
+
+    }
+
+
+    
+    .will4{
+
+        color: white!important;
+  text-align: right;
+  margin-top: -19px;
+
+
+        
+            }
+
+
+            .will5{
+
+text-align: left!important;
+font-size: 12px;
+margin-top: 12px;
+color: white!important;
+
+            }
+
+
+            .will6{
+
+margin-top: -23px;
+text-align: left;
+color: white!important;
+
+
+
+            }
+
+            .will9{
+
+
+margin-left: 7%;
+margin-top: 10px;
+width: 149px;
+border-radius: 50px;
+background-color: #0166FE;
+color: white;
+
+
+            }
+        
+
+            
+    .will10{
+
+        height: 36px!important;
+        width: 143px;
+        background-color: #EF6EDA!important;
+        border-bottom-right-radius: 60px!important;
+        padding-left: 10px;
+        
+            }
+        
+
+            
+    .will11{
+
+        height: 36px!important;
+        width: 143px;
+        background-color: #FFD700!important;
+        border-bottom-right-radius: 60px!important;
+        padding-left: 12px;
+        
+            }
+
+
+            .will{
+
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 226px;
+
+
+
+            }
+        
+
+            @media (min-width: 0px) and (max-width: 756px) {
+    
+
+                .will{
+
+
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-evenly;
+                    margin-top: 226px;
+                    align-items: center;
+                    
+                    
+                                }
+
+
+                                .will1{
+
+margin-top: 32px!important;
+
+
+                                }
+            
+            
+            
+            }
+
+
+
+
+            
+/* 
+.stand{
+
+    height: 665px;
+    width: 100%;
+    background-color: black;
+    
+    
+    } */
+    
+    
+    
+    
+    
+    .stand1{
+    
+    height: 369px!important;
+    width: 550px!important;
+    transform: translate(89%,56%);
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    .stand9{
+    
+    height: 369px!important;
+    width: 60%!important;
+    margin-left: -143px;
+    position: absolute;
+    
+    
+    }
+    
+    .stand10{
+    
+    height: 36px!important;
+    width: 37px!important;
+    margin-top: -69px;
+    margin-left: 130px;
+    
+    }
+    
+    .stand5{
+    
+        font-family: 'Open Sans', sans-serif;
+    color: white!important;
+    margin-left: -222px;
+    
+    }
+    
+    .stand6{
+    
+        font-family: 'Salsa', cursive;
+        color: white!important;
+    
+    
+    
+    
+    }
+    
+    .stand7{
+    
+    color: white!important;
+    font-size: 10px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    .stand13{
+    
+    margin-top: 50px!important;
+    width: 194px!important;
+    margin-left: -194px;
+    height: 45px;
+    
+    
+    }
+    
+    
+    .stand14{
+    
+    width: 194px!important;
+    margin-left: 12px;
+    
+    
+    
+    
+    }
+    
+    .stand15{
+    
+    margin-left: 39px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white!important;
+    
+    
+    }
+    
+    
+    @media (min-width: 0px) and (max-width: 520px) {
+    
+    
+    
+    
+    .stand1{
+    
+    
+    width: 92%!important;
+    transform: translate(0%,58%);
+    
+    }
+    
+    
+    .stand9 {
+        height: 369px!important;
+        width: 52%!important;
+        margin-left: 215px;
+     position: absolute;
+    margin-top: -197px;
+    
+    
+    }
+    
+    
+    
+    
+    .stand5{
+    
+        font-family: 'Open Sans', sans-serif;
+    color: white!important;
+    margin-right: 123px!important;
+    
+    }
+    
+    
+    
+    
+    
+    
+    }
+    
+    @media (min-width: 521px) and (max-width: 540px) {
+    
+        
+        
+        .stand1{
+    
+    
+            width: 92%!important;
+            transform: translate(1%,58%);
+            
+            }
+            
+            
+            .stand9 {
+                height: 369px!important;
+                width: 54%!important;
+                margin-left: 215px;
+                position: absolute;
+            margin-top: -197px!important;
+            
+            
+            }
+
+
+            
+            
+            
+    
+    
+    
+    }
+    
+    
+    
+    @media (min-width: 541px) and (max-width: 766px) {
+    
+    
+    
+    
+        .stand1{
+        
+        
+        width: 92%!important;
+        transform: translate(3%,58%);
+        
+        }
+        
+        
+        .stand9 {
+            height: 369px!important;
+            width: 60%!important;
+            margin-left: 215px;
+            position: absolute;
+        margin-top: -220px;
+        
+        
+        }
+        
+
+        .stand5{
+
+
+margin-left: -72%;
+
+        }
+       
+        
+        
+        
+        
+        
+        
+        
+        }
+        
+        
+        
+        
+    @media (min-width: 767px) and (max-width:992px) {
+    
+    
+    .stand1{
+    
+    transform: translate(20%,50%);
+    
+    
+    }
+        
+        
+        
+     
+        
+        
+        }
+        
+        
+        
+    @media (min-width: 992px) and (max-width: 1200px) {
+    
+    
+        .stand1{
+        
+        transform: translate(50%,50%);
+        
+        
+        }
+            
+            
+            
+         
+            
+            
+            }
+            
+    
+    
+            @media (min-width: 1200px) and (max-width: 1500px) {
+    
+    
+                .stand1{
+                
+                transform: translate(50%,50%);
+                
+                
+                }
+                    
+                    
+                    
+                 
+                    
+                    
+                    }
+    
+    
+    
+    
+
+                    .snap1{
+
+                        margin-top: 60px;
+                        
+                        
+                        
+                            }
+                        
+                          
+                        
+                        
+                            .snap7{
+                        
+                                margin-top: 60px;
+                                
+                                
+                                
+                                    }
+                                
+                                  
+                        
+                        
+                            
+                        
+                            .snap3{
+                        
+                        width: 96px!important;
+                        height: 33px!important;
+                        
+                        
+                        
+                            }
+                        
+                        
+                        
+                        .snap4{
+                        
+                        color: white;
+                        
+                        
+                        
+                        }
+                        
+                        
+                        
+                        
+                        
+                        
+                            .snap{
+                        
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        background-color: #020838;
+                        height: 376px;
+                        width: 100%;
+                        margin-top: 336px;
+                        
+                        
+                        
+                            }
+                        
+                        
+                            .snap5{
+                        
+                        color: white;
+                        
+                        
+                            }
+                        
+                        
+                            
+                            .snap6{
+                        
+                                color: white;
+                                
+                                
+                                    }
+                        
+                        
+                                    
+                                    @media (min-width: 0px) and (max-width: 530px) {
+                        
+                        
+                        .snap7{
+                        
+                        margin-left: 12px;
+                        
+                        
+                             
+                        }
+                        
+                        
+                        
+                        
+                                    }
+                        
+                        
+                        
+                                    .true2{
+                        
+                        height: 84px;
+                        width: 198px;
+                        
+                        
+                                    }
+                        
+                        
+                                   
+                        .true{
+                        
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        background-color: #020838;
+                        height: 255px;
+                        width: 100%;
+                        
+                        
+                        
+                        }
+                        
+                        .true1{
+                        
+                        margin-top: 12px;
+                        
+                        
+                        }
+                        
+                        
+                        @media (min-width: 0px) and (max-width: 576px) {
+                        
+                        
+                                
+                            .true{
+                        
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                background-color: #020838;
+                                height: 255px;
+                                width: 100%;
+                        
+                                
+                                
+                                
+                                }
+                        
+                                .true2{
+                        
+                                    height: 64px;
+                                    width: 98px;
+                                    
+                                    
+                                                }
+                                    
+                                    
+                              
+                               
+                        
+                        }
+                        
+                        
+                        
+                        @media (min-width: 577px) and (max-width: 786px) {
+                        
+                        
+                                
+                            .true{
+                        
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                background-color: #020838;
+                                height: 255px;
+                                width: 100%;
+                        
+                                
+                                
+                                
+                                }
+                        
+                                .true2{
+                        
+                                    height: 64px;
+                                    width: 98px;
+                                    
+                                    
+                                                }
+                                    
+                                    
+                              
+                               
+                        
+                        }
+                                
+                         
+                        
+                        
+                        
+                        .min{
+                        
+                        height: 225px;
+                        width: 100%;
+                        background-color: #020838;
+                        
+                        
+                        }
+                        
+                        .min1{
+                        
+                            color: white;
+                        text-align: center;
+                        font-family: 'Salsa', cursive;
+                        font-size: 40px;
+                        
+                        }
+                        
+                        
+                        .min2{
+                        
+                        margin-left: 35%;
+                        height: 56px;
+                        width: 436px;
+                        border-radius: 8px;
+                        
+                        
+                        
+                        }
+                        
+                        
+                        
+                        
+                        .min3{
+                        
+                        background-color: #0E7D95;
+                        color: white;
+                        height: 56px;
+                        width: 141px;
+                        position: absolute;
+                        border-radius: 8px;
+                        
+                        }
+                        
+                        
+                        
+                        
+                        
+                        @media (min-width: 787px) and (max-width: 992px) {
+                        
+                        
+                        
+                            .min2{
+                        
+                                margin-left: 35%;
+                                height: 56px;
+                                width: 436px;
+                                border-radius: 8px;
+                                margin-left: 113px;
+                                
+                                
+                                }
+                                
+                                
+                                
+                                
+                                .min3{
+                                
+                                background-color: #0E7D95;
+                                color: white;
+                                height: 56px;
+                                width: 141px;
+                                position: absolute;
+                                border-radius: 8px;
+                                
+                                }
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        }
+                        
+                        
+                        
+                        @media (min-width: 576px) and (max-width: 786px) {
+                        
+                        
+                        
+                        
+                        .min1{
+                        
+                        margin-left: -147px;
+                        
+                        
+                        }
+                        
+                        
+                        
+                            .min2{
+                        
+                                margin-left: 35%;
+                                height: 56px;
+                                width: 368px;
+                                border-radius: 8px;
+                                margin-left: 28px;
+                                
+                                
+                                }
+                                
+                                
+                                
+                                
+                                .min3{
+                                
+                                background-color: #0E7D95;
+                                color: white;
+                                height: 56px;
+                                width: 141px;
+                                position: absolute;
+                                border-radius: 8px;
+                                
+                                }
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        }
+                        
+                        
+                        
+                        @media (min-width: 0px) and (max-width: 575px) {
+                        
+                        
+                        
+                        
+                            .min1{
+                            
+                            margin-left: -147px;
+                            
+                            
+                            }
+                            
+                            
+                            
+                                .min2{
+                            
+                                    margin-left: 35%;
+                                    height: 56px;
+                                    width: 299px;
+                                    border-radius: 8px;
+                                    margin-left: 28px;
+                                    
+                                    
+                                    }
+                                    
+                                    
+                                    
+                                    
+                                    .min3{
+                                    
+                                    background-color: #0E7D95;
+                                    color: white;
+                                    height: 56px;
+                                    width: 141px;
+                                    position: absolute;
+                                    border-radius: 8px;
+                                    
+                                    }
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            }
+                        
+                        
+                        .sec{
+                        
+                        height: 120px;
+                        width: 100%;
+                        background-color: #020838;
+                        
+                        
+                        
+                        }
+                        
+                        
+                        
+                        
+                            .sec1{
+                        
+                        width: 80%;
+                        height: 1px;
+                        background-color: aqua;
+                        margin-top: -12px;
+                        margin-left: 10%;
+                        
+                        
+                            }
+                        
+                            .sec3{
+                        
+                        height: 23px;
+                        width: 56px;
+                        
+                        
+                            }
+                        
+                            
+                            .sec2{
+                        
+                                height: 33px;
+                                width: 76px;
+                                margin-left: 89%;
+                                margin-top: -27px;
+                                position: absolute;
+                                
+                                
+                                    }
+                        
+                        
+                        
+                                    @media (min-width: 0px) and (max-width: 575px) {
+                        
+                                        .sec2{
+                        
+                                            height: 33px;
+                                            width: 76px;
+                                            margin-left: 80%;
+                                            margin-top: -27px;
+                                            position: absolute;
+                                            
+                                            
+                                                }
+                                       
+                                    
+                                    
+                                    
+                                    }
+                        
+                        
+                        
+                                    
+                        
+                                    @media (min-width: 576px) and (max-width: 786px) {
+                        
+                                        .sec2{
+                        
+                                            height: 33px;
+                                            width: 76px;
+                                            margin-left: 84%;
+                                            margin-top: -27px;
+                                            position: absolute;
+                                            
+                                            
+                                                }
+                                       
+                                    
+                                    
+                                    
+                                    }
+                        
+                        
+                                    
+                                    @media (min-width: 787px) and (max-width: 992px) {
+                        
+                                        .sec2{
+                        
+                                            height: 33px;
+                                            width: 76px;
+                                            margin-left: 87%;
+                                            margin-top: -27px;
+                                            position: absolute;
+                                            
+                                            
+                                                }
+                                       
+                                    
+                                    
+                                    
+                                    }
+                        
+                        
+                                    .hr{
+                        
+                        height: 75px;
+                        width: 100%;
+                        background-color: black;
+                        
+                        
+                                    }
+                        
+                                    .hr1{
+                        
+                        
+                        margin-left: 46%;
+                        color: white;
+                        font-size: 29px;
+                        margin-top: 17px;
+                        position: absolute;
+                        
+                                    }
